@@ -1,0 +1,52 @@
+html {
+  background-image: url(bg.png);
+  background-repeat: no-repeat;
+}
+
+
+h1{
+	position: absolute;
+	width: 97px;
+	height: 53px;
+	left: 690px;
+	top: 210px;
+
+	font-family: aglet-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 71px;
+
+	color: #000000;
+}
+
+.work{
+	position: absolute;
+	width: 184px;
+	height: 127px;
+	left: 336px;
+	top: 467px;
+
+	background: url(work.png);
+}
+
+.shop{
+	position: absolute;
+	width: 161px;
+	height: 127px;
+	left: 921px;
+	top: 467px;
+
+	background: url(shop.png);
+}
+
+.button{
+	position: absolute;
+	width: 223px;
+	height: 315px;
+	left: 609px;
+	top: 445px;
+
+	background: url(button.png);
+}
+

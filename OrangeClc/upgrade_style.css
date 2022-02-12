@@ -1,0 +1,222 @@
+html {
+  background-image: url(upgrade.png);
+  background-repeat: no-repeat;
+}
+
+.orange{
+  position: absolute;
+  width: 559px;
+  height: 286px;
+  left: 440px;
+  top: 71px;
+
+  background: url(orange_text.png);
+}
+
+.oranges{
+  position: absolute;
+  width: 559px;
+  height: 131px;
+
+  background: url(orange_text.png);
+}
+
+.money_col_vo_upgrade{
+  position: absolute;
+  width: 33px;
+  height: 38px;
+  left: 715px;
+  top: 400px;
+
+  font-family: Aglet Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
+
+.simple_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 511px;
+
+  background: url(simple_unactivated.png);
+}
+
+.grandma_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 620px;
+  top: 509px;
+
+  background: url(grandma_unactivated.png);
+}
+
+.farmer_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 511px;
+
+  background: url(farmer_unactivated.png);
+}
+
+.pro_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 642px;
+
+  background: url(pro_unactivated.png);
+}
+
+.negr_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 620px;
+  top: 643px;
+
+  background: url(negr_unactivated.png);
+}
+
+.boss_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 642px;
+
+  background: url(boss_unactivated.png);
+}
+
+.cheat_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 775px;
+
+  background: url(cheat_unactivated.png);
+}
+
+.god_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 621px;
+  top: 775px;
+
+  background: url(god_unactivated.png);
+}
+
+.orange_unactivated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 775px;
+
+  background: url(orange_unactivated.png);
+}
+
+
+
+
+
+.simple_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 511px;
+
+  background: url(simple_activated.png);
+}
+
+.grandma_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 620px;
+  top: 509px;
+
+  background: url(grandma_activated.png);
+}
+
+.farmer_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 511px;
+
+  background: url(farmer_activated.png);
+}
+
+.pro_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 642px;
+
+  background: url(pro_activated.png);
+}
+
+.negr_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 620px;
+  top: 643px;
+
+  background: url(negr_activated.png);
+}
+
+.boss_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 642px;
+
+  background: url(boss_activated.png);
+}
+
+.cheat_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 362px;
+  top: 775px;
+
+  background: url(cheat_activated.png);
+}
+
+.god_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 621px;
+  top: 775px;
+
+  background: url(god_activated.png);
+}
+
+.orange_activated{
+  position: absolute;
+  width: 232px;
+  height: 87px;
+  left: 878px;
+  top: 775px;
+
+  background: url(orange_activated.png);
+}

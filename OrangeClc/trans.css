@@ -1,0 +1,130 @@
+html {
+  background-image: url(trans.png);
+  background-repeat: no-repeat;
+}
+
+.buy_1{
+  position: absolute;
+  width: 173px;
+  height: 85px;
+  left: 432px;
+  top: 680px;
+
+  background: url(buy_button.png);
+}
+
+.buy_2{
+  position: absolute;
+  width: 173px;
+  height: 85px;
+  left: 829px;
+  top: 680px;
+
+  background: url(buy_button.png);
+}
+
+.up_1{
+  position: absolute;
+  width: 51px;
+  height: 47px;
+  left: 623px;
+  top: 605px;
+
+  background: url(up.png);
+}
+
+.down_1{
+  position: absolute;
+  width: 51px;
+  height: 47px;
+  left: 623px;
+  top: 605px;
+
+  background: url(down.png);
+}
+
+.up_2{
+  position: absolute;
+  width: 51px;
+  height: 47px;
+  left: 778px;
+  top: 605px;
+
+  background: url(up.png);
+}
+
+.down_2{
+  position: absolute;
+  width: 51px;
+  height: 47px;
+  left: 779px;
+  top: 605px;
+
+  background: url(down.png);
+}
+
+.orange{
+  position: absolute;
+  width: 559px;
+  height: 286px;
+  left: 440px;
+  top: 71px;
+
+  background: url(orange_text.png);
+}
+
+.oranges{
+  position: absolute;
+  width: 559px;
+  height: 131px;
+
+  background: url(orange_text.png);
+}
+
+.oranges_colvo{
+  position: absolute;
+  width: 70px;
+  height: 38px;
+  left: 491px;
+  top: 390px;
+
+  font-family: Aglet Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
+
+.money_colvo{
+  position: absolute;
+  width: 33px;
+  height: 38px;
+  left: 885px;
+  top: 390px;
+
+  font-family: Aglet Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
+
+.curs_textt{
+  position: absolute;
+  width: 68px;
+  height: 38px;
+  left: 695px;
+  top: 580px;
+
+  font-family: Aglet Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}

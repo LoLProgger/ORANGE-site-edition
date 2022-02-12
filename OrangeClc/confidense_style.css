@@ -1,0 +1,20 @@
+html {
+  background-image: url(confidense_bg.png);
+  background-repeat: no-repeat;
+}
+
+.confidense_text{
+  position: absolute;
+  width: 337px;
+  height: 81px;
+  left: 565px;
+  top: 433px;
+}
+
+.button_aply{
+  position: absolute;
+  width: 240px;
+  height: 73px;
+  left: 614px;
+  top: 551px;
+}

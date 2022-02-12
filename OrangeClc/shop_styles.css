@@ -1,0 +1,95 @@
+html {
+  background-image: url(shop_window.png);
+  background-repeat: no-repeat;
+}
+
+
+h1{
+	position: absolute;
+	width: 97px;
+	height: 53px;
+	left: 690px;
+	top: 210px;
+
+	font-family: aglet-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 71px;
+
+	color: #000000;
+}
+
+.orange{
+	position: absolute;
+	width: 559px;
+	height: 286px;
+	left: 440px;
+	top: 71px;
+
+	background: url(orange_text.png);
+}
+
+.oranges{
+	position: absolute;
+	width: 559px;
+	height: 131px;
+
+	background: url(orange_text.png);
+}
+
+.trans{
+	position: absolute;
+	width: 344px;
+	height: 88px;
+	left: 335px;
+	top: 402px;
+
+	background: url(trans_button.png);
+}
+
+.transs{
+	position: absolute;
+	width: 344px;
+	height: 88px;
+
+	background: url(trans_button.png);
+}
+
+.upgrade{
+	position: absolute;
+	width: 342px;
+	height: 110px;
+	left: 755px;
+	top: 483px;
+
+	background: url(upgrade_button.png);
+}
+
+.upgradeee{
+	position: absolute;
+	width: 342px;
+	height: 110px;
+	
+	background: url(upgrade_button.png);
+}
+
+.achieviments{
+	position: absolute;
+	width: 341px;
+	height: 94px;
+	left: 336px;
+	top: 586px;
+
+	background: url(achivements_button.png);
+}
+
+.top{
+	position: absolute;
+	width: 340px;
+	height: 87px;
+	left: 755px;
+	top: 686px;
+
+	background: url(top_button.png);
+}
